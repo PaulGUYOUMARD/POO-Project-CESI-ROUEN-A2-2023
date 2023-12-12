@@ -1,0 +1,115 @@
+  APPGRAPHIQUEPROJET.GestionClient.resources - Embedded, ContainedInManifestFile, 
+  APPGRAPHIQUEPROJET.GestionCommandes.resources - Embedded, ContainedInManifestFile, 
+  APPGRAPHIQUEPROJET.GestionPersonnel.resources - Embedded, ContainedInManifestFile, 
+  APPGRAPHIQUEPROJET.GestionStatistiques.resources - Embedded, ContainedInManifestFile, 
+  APPGRAPHIQUEPROJET.GestionStock.resources - Embedded, ContainedInManifestFile, 
+  APPGRAPHIQUEPROJET.HelpPage.resources - Embedded, ContainedInManifestFile, 
+  APPGRAPHIQUEPROJET.HomePage.resources - Embedded, ContainedInManifestFile, 
+  APPGRAPHIQUEPROJET.MyForm.resources - Embedded, ContainedInManifestFile, 
+  APPGRAPHIQUEPROJET.PageAccueil.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly PROJET V2, Version=0.0.*, Culture=Langue indifférente (Pays indifférent): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly PresentationCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35: 
+	hash=None, flags=None
+Assembly PresentationFramework, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.ServiceProcess, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xaml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly UIAutomationProvider, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35: 
+	hash=None, flags=None
+Assembly WindowsBase, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35: 
+	hash=None, flags=None
+Assembly WindowsFormsIntegration, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35: 
+	hash=None, flags=None
+Class APPGRAPHIQUEPROJET.GestionClient: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(System.Windows.Forms.Form): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Windows.Forms.Form ObjetClient : Public
+  Methods:
+    check_client_ID_entry(): PrivateScope, Public, HideBySig
+    check_client_name_entry(): PrivateScope, Public, HideBySig
+    check_client_surname_entry(): PrivateScope, Public, HideBySig
+    check_client_mail_entry(): PrivateScope, Public, HideBySig
+    check_client_ville_entry(): PrivateScope, Public, HideBySig
+    check_client_rue_entry(): PrivateScope, Public, HideBySig
+    check_client_code_postal_entry(): PrivateScope, Public, HideBySig
+    check_client_name_building_entry(): PrivateScope, Public, HideBySig
+    check_client_floor_entry(): PrivateScope, Public, HideBySig
+Class APPGRAPHIQUEPROJET.GestionCommandes: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(System.Windows.Forms.Form): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Windows.Forms.Form Objet : Public
+Class APPGRAPHIQUEPROJET.GestionPersonnel: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(System.Windows.Forms.Form): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Windows.Forms.Form ObjetPersonnel : Public
+  Methods:
+    check_personnel_ID_entry(): PrivateScope, Public, HideBySig
+    check_personnel_name_entry(): PrivateScope, Public, HideBySig
+    check_personnel_surname_entry(): PrivateScope, Public, HideBySig
+    check_personnel_mail_entry(): PrivateScope, Public, HideBySig
+    check_personnel_ville_entry(): PrivateScope, Public, HideBySig
+    check_personnel_rue_entry(): PrivateScope, Public, HideBySig
+    check_personnel_code_postal_entry(): PrivateScope, Public, HideBySig
+    check_personnel_name_building_entry(): PrivateScope, Public, HideBySig
+    check_personnel_floor_entry(): PrivateScope, Public, HideBySig
+    check_personnel_role_entry(): PrivateScope, Public, HideBySig
+    check_personnel_ID_supperior_entry(): PrivateScope, Public, HideBySig
+Class APPGRAPHIQUEPROJET.GestionStatistiques: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(System.Windows.Forms.Form): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Windows.Forms.Form ObjetStat : Public
+Class APPGRAPHIQUEPROJET.GestionStock: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(System.Windows.Forms.Form): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Windows.Forms.Form ObjetStock : Public
+  Methods:
+    check_article_ID_entry(): PrivateScope, Public, HideBySig
+    check_article_name_entry(): PrivateScope, Public, HideBySig
+    check_article_price_entry(): PrivateScope, Public, HideBySig
+    check_article_color_entry(): PrivateScope, Public, HideBySig
+    check_article_TVA_entry(): PrivateScope, Public, HideBySig
+    check_article_quantity_entry(): PrivateScope, Public, HideBySig
+Class APPGRAPHIQUEPROJET.ManuelUtilisation: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(System.Windows.Forms.Form): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Windows.Forms.Form ObjetManuel : Public
+Class APPGRAPHIQUEPROJET.HomePage: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(System.Windows.Forms.Form): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.Windows.Forms.Form Objet : Public
+Class APPGRAPHIQUEPROJET.MyForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class APPGRAPHIQUEPROJET.PageAccueil: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName

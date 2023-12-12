@@ -1,0 +1,22 @@
+C:\Users\laine\source\repos\PROJET-POO-DERNIERE-CHANCE\APP_GRAPHIQUE_PROJET\x64\Debug\APP_GRAPHIQUE_PROJET.vcxproj.AssemblyReference.cache
+C:\Users\laine\source\repos\PROJET-POO-DERNIERE-CHANCE\APP_GRAPHIQUE_PROJET\x64\Debug\APPGRAPHIQUEPROJET.GestionClient.resources
+C:\Users\laine\source\repos\PROJET-POO-DERNIERE-CHANCE\APP_GRAPHIQUE_PROJET\x64\Debug\APPGRAPHIQUEPROJET.GestionCommandes.resources
+C:\Users\laine\source\repos\PROJET-POO-DERNIERE-CHANCE\APP_GRAPHIQUE_PROJET\x64\Debug\APPGRAPHIQUEPROJET.GestionPersonnel.resources
+C:\Users\laine\source\repos\PROJET-POO-DERNIERE-CHANCE\APP_GRAPHIQUE_PROJET\x64\Debug\APPGRAPHIQUEPROJET.GestionStatistiques.resources
+C:\Users\laine\source\repos\PROJET-POO-DERNIERE-CHANCE\APP_GRAPHIQUE_PROJET\x64\Debug\APPGRAPHIQUEPROJET.GestionStock.resources
+C:\Users\laine\source\repos\PROJET-POO-DERNIERE-CHANCE\APP_GRAPHIQUE_PROJET\x64\Debug\APPGRAPHIQUEPROJET.HomePage.resources
+C:\Users\laine\source\repos\PROJET-POO-DERNIERE-CHANCE\APP_GRAPHIQUE_PROJET\x64\Debug\APPGRAPHIQUEPROJET.MyForm.resources
+C:\Users\laine\source\repos\PROJET-POO-DERNIERE-CHANCE\APP_GRAPHIQUE_PROJET\x64\Debug\APPGRAPHIQUEPROJET.PageAccueil.resources
+C:\Users\laine\source\repos\PROJET-POO-DERNIERE-CHANCE\APP_GRAPHIQUE_PROJET\x64\Debug\APP_GRAPHIQUE_PROJET.vcxproj.GenerateResource.cache
+C:\Users\laine\source\repos\PROJET-POO-DERNIERE-CHANCE\APP_GRAPHIQUE_PROJET\x64\Debug\APPGRAPHIQUEPROJET.HelpPage.resources
+C:\Users\laine\Desktop\Cours Cesi\CPI_A2\Bloc 2_POO\Projet POO\PROJET-POO\APP_GRAPHIQUE_PROJET\x64\Debug\APP_GRAPHIQUE_PROJET.vcxproj.AssemblyReference.cache
+C:\Users\laine\Desktop\Cours Cesi\CPI_A2\Bloc 2_POO\Projet POO\PROJET-POO\APP_GRAPHIQUE_PROJET\x64\Debug\APPGRAPHIQUEPROJET.GestionClient.resources
+C:\Users\laine\Desktop\Cours Cesi\CPI_A2\Bloc 2_POO\Projet POO\PROJET-POO\APP_GRAPHIQUE_PROJET\x64\Debug\APPGRAPHIQUEPROJET.GestionCommandes.resources
+C:\Users\laine\Desktop\Cours Cesi\CPI_A2\Bloc 2_POO\Projet POO\PROJET-POO\APP_GRAPHIQUE_PROJET\x64\Debug\APPGRAPHIQUEPROJET.GestionPersonnel.resources
+C:\Users\laine\Desktop\Cours Cesi\CPI_A2\Bloc 2_POO\Projet POO\PROJET-POO\APP_GRAPHIQUE_PROJET\x64\Debug\APPGRAPHIQUEPROJET.GestionStatistiques.resources
+C:\Users\laine\Desktop\Cours Cesi\CPI_A2\Bloc 2_POO\Projet POO\PROJET-POO\APP_GRAPHIQUE_PROJET\x64\Debug\APPGRAPHIQUEPROJET.GestionStock.resources
+C:\Users\laine\Desktop\Cours Cesi\CPI_A2\Bloc 2_POO\Projet POO\PROJET-POO\APP_GRAPHIQUE_PROJET\x64\Debug\APPGRAPHIQUEPROJET.HelpPage.resources
+C:\Users\laine\Desktop\Cours Cesi\CPI_A2\Bloc 2_POO\Projet POO\PROJET-POO\APP_GRAPHIQUE_PROJET\x64\Debug\APPGRAPHIQUEPROJET.HomePage.resources
+C:\Users\laine\Desktop\Cours Cesi\CPI_A2\Bloc 2_POO\Projet POO\PROJET-POO\APP_GRAPHIQUE_PROJET\x64\Debug\APPGRAPHIQUEPROJET.MyForm.resources
+C:\Users\laine\Desktop\Cours Cesi\CPI_A2\Bloc 2_POO\Projet POO\PROJET-POO\APP_GRAPHIQUE_PROJET\x64\Debug\APPGRAPHIQUEPROJET.PageAccueil.resources
+C:\Users\laine\Desktop\Cours Cesi\CPI_A2\Bloc 2_POO\Projet POO\PROJET-POO\APP_GRAPHIQUE_PROJET\x64\Debug\APP_GRAPHIQUE_PROJET.vcxproj.GenerateResource.cache

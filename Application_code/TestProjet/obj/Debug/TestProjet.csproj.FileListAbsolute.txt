@@ -1,0 +1,2 @@
+C:\Users\laine\source\repos\PROJET-POO-DERNIERE-CHANCE\TestProjet\obj\Debug\TestProjet.csproj.AssemblyReference.cache
+C:\Users\laine\source\repos\PROJET-POO-DERNIERE-CHANCE\TestProjet\obj\Debug\TestProjet.csproj.CoreCompileInputs.cache
